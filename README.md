@@ -2,6 +2,7 @@
 
 **GradeOps** is an AI-powered evaluation infrastructure designed to bridge the gap between handwritten student submissions and digital academic grading. It automates transcription (OCR), applies instructor-defined rubrics via AI, and provides a secure dashboard for TAs and Professors.
 
+**DemoVideo** https://drive.google.com/file/d/12CRIigDNH4ajEXUuUz28aZqnUj1a-aU3/view?usp=sharing
 ---
 
 ## Features
