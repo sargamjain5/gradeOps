@@ -24,7 +24,7 @@
 
 ---
 
-## 🧠 How It Works: The AI Pipeline
+## The AI Pipeline
 
 GradeOps uses a sophisticated multi-stage pipeline to transform physical handwriting into actionable academic insights.
 
