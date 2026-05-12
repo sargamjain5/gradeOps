@@ -69,7 +69,7 @@ Simultaneously, the content is analyzed for:
 
 ---
 
-# 🛠️ Tech Stack & Integration
+# Tech Stack & Integration
 
 - **Frontend:** React.js
 - **Backend:** Python (FastAPI)
