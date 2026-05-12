@@ -53,6 +53,7 @@ Simultaneously, the content is analyzed for:
 - **OCR Engine:** Tesseract OCR / EasyOCR (Local on-device transcription)
 - **LLM:** Mistral AI (Mistral-Large / Mistral-Medium)
 - **State Management:** React Hooks & Local Overrides
+- **Storage**: Cloudinary
 
 ## Tech Stack
 
