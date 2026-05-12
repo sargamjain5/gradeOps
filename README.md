@@ -134,7 +134,7 @@ CLOUDINARY_API_SECRET=your_cloudinary_api_secret
 ## **Instructor Login**
 
 ```txt
-Username: Instructor
+Username: instructor
 Password: 1234
 ```
 
@@ -154,29 +154,6 @@ Password: 1234
 ```txt
 admin123
 ```
-
----
-
-# Security Note
-
-Add `.env` to your `.gitignore` file:
-
-```gitignore
-.env
-```
-
-Never commit API keys or secrets to GitHub.
-
----
-
-# Future Scope
-
-- Multi-role RBAC authentication
-- Advanced rubric engines with partial credit logic
-- Cloud deployment with scalable storage
-- Real-time collaborative TA reviewing
-- Enhanced plagiarism clustering using embeddings
-- Analytics dashboard for instructor insights
 
 ---
 
