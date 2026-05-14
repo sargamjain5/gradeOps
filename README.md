@@ -8,6 +8,7 @@
 
 Check out **GradeOps** in action:  
 [🎥 Watch the Demo on Google Drive](https://drive.google.com/file/d/12CRIigDNH4ajEXUuUz28aZqnUj1a-aU3/view?usp=sharing)
+(!! Only frontend is deployed on vercel)
 
 ---
 
